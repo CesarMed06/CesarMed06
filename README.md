@@ -43,10 +43,9 @@ I'm a Web Application Development (DAW) student based in Seville, Spain. I speci
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| ⚔️ **[Village Diplomacy](#)** | A comprehensive Minecraft mod bringing new mechanics and diplomacy. | `Java` |
-| 💻 **[Personal Portfolio](#)** | My interactive portfolio showcasing my journey, built with modern web tech. | `React`, `GSAP`, `Tailwind` |
-| 👕 **[ShirtFinder](#)** | Full-Stack web application for discovering and managing apparel. | `JS`, `Node`, `DB` |
-| 🎡 **[Choreomania](#)** | "Wheel of Hope" - Interactive web project applying advanced JS logic. | `HTML`, `CSS`, `JS` |
+| ⚔️ **[Village Diplomacy](https://github.com/CesarMed06/Village-Diplomacy.git)** | A comprehensive Minecraft mod bringing new mechanics and diplomacy. | `Java` |
+| 💻 **[Personal Portfolio](https://github.com/CesarMed06/Portfolio.git)** | My interactive portfolio showcasing my journey, built with modern web tech. | `React`, `GSAP`, `Tailwind` |
+| 👕 **[ShirtFinder](https://github.com/CesarMed06/ShirtFinder.git)** | Full-Stack web application for discovering and managing apparel. | `JS`, `Node`, `DB` |
 
 ---
 
