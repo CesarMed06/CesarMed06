@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy César 👋
 
-<!--
-**CesarMed06/CesarMed06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full-Stack enfocado en el ecosistema JavaScript/TypeScript y la integración de IA. Busco aportar código limpio y soluciones escalables.
 
-Here are some ideas to get you started:
+### 🛠️ Stack Técnico
+**Frontend:** React, JavaScript, TypeScript, HTML/CSS
+**Backend & Base de Datos:** Node.js, Java, MySQL, MongoDB
+**Herramientas & Entorno:** Git, GitHub, WordPress, Prompt Engineering, API de Gemini / OpenAI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos destacados
+*   **Village Diplomacy:** mod de Minecraft desarrollado íntegramente en Java.
+*   **Portfolio Web:** mi espacio personal desarrollado con React.
+*   **ShirtFinder:** aplicación web Full-Stack.
+
+### 🌍 Dónde encontrarme
+*   [LinkedIn](https://www.linkedin.com/in/césar-medina-gago)
